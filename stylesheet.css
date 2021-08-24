@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Fluo Gums';
+    src: url('FluoGums.woff2') format('woff2'),
+        url('FluoGums.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DPComic';
+    src: url('DPComicRegular.woff2') format('woff2'),
+        url('DPComicRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
