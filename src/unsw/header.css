@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'DPComic';
+    src: url('DPComicRegular.woff2') format('woff2'),
+        url('DPComicRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.Title{
+    -fx-background-color: fuchsia;
+}
+
